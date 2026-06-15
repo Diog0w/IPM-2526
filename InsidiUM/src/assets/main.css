@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Reset opcional (não obrigatório, mas ajuda a manter tudo limpo) */
+html, body, #app {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}

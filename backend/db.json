@@ -1,0 +1,3702 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "jose",
+      "password": "123",
+      "occupation": "cientista"
+    },
+    {
+      "id": "2",
+      "username": "maria",
+      "password": "456",
+      "occupation": "vereadora"
+    },
+    {
+      "id": "3",
+      "username": "antonio",
+      "password": "789",
+      "occupation": "estudante"
+    },
+    {
+      "id": "4",
+      "username": "jips",
+      "password": "1234",
+      "occupation": "estudante"
+    },
+    {
+      "id": "5",
+      "username": "Runildo",
+      "password": "droid",
+      "occupation": "vereadora"
+    },
+    {
+      "id": "6",
+      "username": "Ferrero",
+      "password": "roche",
+      "occupation": "estudante"
+    }
+  ],
+  "listings": [
+    {
+      "id": "41339",
+      "name": "Porto city flat near the sea",
+      "host_name": "Paula",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.148086,
+        "lng": -8.640181
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 69,
+      "last_review": "2025-09-09",
+      "license": "29049/AL"
+    },
+    {
+      "id": "55111",
+      "name": "Fontielas Houses |Floor1 in House with shared Pool",
+      "host_name": "Isabel E João",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.205249,
+        "lng": -8.33796
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PAREDES",
+      "price": null,
+      "last_review": "2025-08-30",
+      "license": "7563/AL"
+    },
+    {
+      "id": "73828",
+      "name": "Fontielas Houses |Floor0 in House with shared Pool",
+      "host_name": "Isabel E João",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.202374,
+        "lng": -8.323428
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PAREDES",
+      "price": null,
+      "last_review": "2025-08-31",
+      "license": "7563/AL"
+    },
+    {
+      "id": "87873",
+      "name": "Oporto Apartment Triplex",
+      "host_name": "Paula",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.14761,
+        "lng": -8.631202
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 108,
+      "last_review": "2025-09-14",
+      "license": "634/AL"
+    },
+    {
+      "id": "94701",
+      "name": "Big TERRACE APARTMENT / city center",
+      "host_name": "Gundega",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.147582,
+        "lng": -8.622936
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 73,
+      "last_review": "2025-09-15",
+      "license": "85541/AL"
+    },
+    {
+      "id": "96394",
+      "name": "Boat Blue Days",
+      "host_name": "Manuel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.123509,
+        "lng": -8.616779
+      },
+      "city": "Porto",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": null,
+      "last_review": "2023-09-25",
+      "license": "90/2015"
+    },
+    {
+      "id": "100521",
+      "name": "casa de praia",
+      "host_name": "Isabel Morgado",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.123145,
+        "lng": -8.606414
+      },
+      "city": "Porto",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": null,
+      "last_review": null,
+      "license": null
+    },
+    {
+      "id": "104045",
+      "name": "Porto Sky Duplex Penthouse",
+      "host_name": "Aida",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.148191,
+        "lng": -8.615737
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": null,
+      "last_review": "2025-01-02",
+      "license": "11205/AL"
+    },
+    {
+      "id": "105347",
+      "name": "Minha casinha / My little house",
+      "host_name": "Manuel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.122885,
+        "lng": -8.596229
+      },
+      "city": "Porto",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 77,
+      "last_review": "2025-09-04",
+      "license": "135964/AL"
+    },
+    {
+      "id": "14820184",
+      "name": "Single room near El Corte Inglés",
+      "host_name": "Priscilla",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.136349,
+        "lng": -8.616903
+      },
+      "city": "Porto",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 25,
+      "last_review": "2025-08-30",
+      "license": "56031/2017"
+    },
+    {
+      "id": "14820633",
+      "name": "Single room near El corte inglés",
+      "host_name": "Priscilla",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.136491,
+        "lng": -8.607653
+      },
+      "city": "Porto",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 21,
+      "last_review": "2025-08-11",
+      "license": "56031/AL"
+    },
+    {
+      "id": "14821291",
+      "name": "Casa do Caldas  - Suite 1",
+      "host_name": "António",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.1579,
+        "lng": -8.6291
+      },
+      "city": "Porto",
+      "neighbourhood_group": "VILA DO CONDE",
+      "price": null,
+      "last_review": "2025-08-21",
+      "license": "13611/AL"
+    },
+    {
+      "id": "14824708",
+      "name": "Terrace Apartment",
+      "host_name": "Alexandra",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.156443,
+        "lng": -8.639552
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 60,
+      "last_review": "2025-08-20",
+      "license": "56281/AL"
+    },
+    {
+      "id": "14848151",
+      "name": "Casa das Flores",
+      "host_name": "Luis",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.1579,
+        "lng": -8.6291
+      },
+      "city": "Porto",
+      "neighbourhood_group": "SANTO TIRSO",
+      "price": 57,
+      "last_review": "2025-08-08",
+      "license": "Exempt"
+    },
+    {
+      "id": "14851194",
+      "name": "City Centre Historic Suite #2",
+      "host_name": "Manuel Steps 241",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.156356,
+        "lng": -8.631505
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 53,
+      "last_review": "2025-09-04",
+      "license": "31983/AL"
+    },
+    {
+      "id": "14856954",
+      "name": "Porto 1870 Sunny Loft w/Balcony",
+      "host_name": "Daniel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.155955,
+        "lng": -8.623838
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 95,
+      "last_review": "2025-08-22",
+      "license": "52604/AL"
+    },
+    {
+      "id": "14865753",
+      "name": "Infante Apartment",
+      "host_name": "Filipa",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.156549,
+        "lng": -8.614941
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": null,
+      "last_review": "2023-01-07",
+      "license": "33003/AL"
+    },
+    {
+      "id": "14877541",
+      "name": "Porto Central  2",
+      "host_name": "Conceição",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.163458,
+        "lng": -8.639804
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 75,
+      "last_review": "2025-08-30",
+      "license": "15118/Al"
+    },
+    {
+      "id": "14886712",
+      "name": "Oportobestview-River",
+      "host_name": "Jorge",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.163194,
+        "lng": -8.631615
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 74,
+      "last_review": "2025-08-10",
+      "license": "37146/AL"
+    },
+    {
+      "id": "14923525",
+      "name": "Cozy Place with a Garden",
+      "host_name": "Célia Pedro",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.235,
+        "lng": -8.6214
+      },
+      "city": "Porto",
+      "neighbourhood_group": "MAIA",
+      "price": 41,
+      "last_review": "2025-09-20",
+      "license": "48186/AL."
+    },
+    {
+      "id": "14938231",
+      "name": "Ribeira Charming Apartment I (Renewed 2022)",
+      "host_name": "João",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.163438,
+        "lng": -8.623895
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 143,
+      "last_review": "2025-09-15",
+      "license": "35739/AL"
+    },
+    {
+      "id": "14964012",
+      "name": "Ribeira Charming Apartment II",
+      "host_name": "João",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.163311,
+        "lng": -8.61553
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 120,
+      "last_review": "2025-08-27",
+      "license": "35741/AL"
+    },
+    {
+      "id": "14976547",
+      "name": "Oporto Thom beach apartment",
+      "host_name": "Andre",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.137175,
+        "lng": -8.596535
+      },
+      "city": "Porto",
+      "neighbourhood_group": "VILA NOVA DE GAIA",
+      "price": 64,
+      "last_review": "2025-08-21",
+      "license": "38847/AL"
+    },
+    {
+      "id": "14978290",
+      "name": "Serpa Beach House",
+      "host_name": "Mário",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.182199,
+        "lng": -8.697011
+      },
+      "city": "Porto",
+      "neighbourhood_group": "MATOSINHOS",
+      "price": 54,
+      "last_review": "2025-09-09",
+      "license": "135579/AL"
+    },
+    {
+      "id": "14989688",
+      "name": "Clerigos.H-Duplex Apartment (3.Floor)",
+      "host_name": "Elísio",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.172673,
+        "lng": -8.639688
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 91,
+      "last_review": "2025-09-05",
+      "license": "23007/AL"
+    },
+    {
+      "id": "1488491956277255700",
+      "name": "Porto Blue House comfort",
+      "host_name": "Antonio",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.17252,
+        "lng": -8.630751
+      },
+      "city": "Porto",
+      "neighbourhood_group": "PORTO",
+      "price": 112,
+      "last_review": null,
+      "license": "154844/AL"
+    },
+    {
+      "id": "1489066887975894000",
+      "name": "Suíte Casa Aurora",
+      "host_name": "Raquel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.145837,
+        "lng": -8.540081
+      },
+      "city": "Porto",
+      "neighbourhood_group": "GONDOMAR",
+      "price": 36,
+      "last_review": "2025-09-09",
+      "license": "168415/AL"
+    },
+    {
+      "id": "1489129709567710700",
+      "name": "Quarto de casal Azul",
+      "host_name": "Raquel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.143364,
+        "lng": -8.525896
+      },
+      "city": "Porto",
+      "neighbourhood_group": "GONDOMAR",
+      "price": 33,
+      "last_review": "2025-09-10",
+      "license": "168415/AL"
+    },
+    {
+      "id": "1489139384534496800",
+      "name": "Blue Leça T0 3º andar/Frente",
+      "host_name": "Inês",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.180975,
+        "lng": -8.682176
+      },
+      "city": "Porto",
+      "neighbourhood_group": "MATOSINHOS",
+      "price": 100,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "200100",
+      "name": "Alfama River View Studio",
+      "host_name": "Mariana",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.712134,
+        "lng": -9.151079
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 95,
+      "last_review": "2025-10-01",
+      "license": "45221/AL"
+    },
+    {
+      "id": "200101",
+      "name": "Chiado Luxury Flat w/ AC",
+      "host_name": "Mariana",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.711672,
+        "lng": -9.143837
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 180,
+      "last_review": "2025-09-28",
+      "license": "45222/AL"
+    },
+    {
+      "id": "200102",
+      "name": "Bairro Alto Party Pad",
+      "host_name": "Mariana",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.712539,
+        "lng": -9.137846
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 65,
+      "last_review": "2025-08-15",
+      "license": "45223/AL"
+    },
+    {
+      "id": "200103",
+      "name": "Modern Apartment Expo / Parque das Nações",
+      "host_name": "Ana & Pedro",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.712496,
+        "lng": -9.13119
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 130,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "200104",
+      "name": "Belém Tower Guesthouse",
+      "host_name": "Sofie",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.712479,
+        "lng": -9.124557
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": null,
+      "last_review": "2025-07-20",
+      "license": "99887/AL"
+    },
+    {
+      "id": "200105",
+      "name": "Downtown Baixa Pombalina",
+      "host_name": "Rui",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.720679,
+        "lng": -9.150132
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 150,
+      "last_review": "2025-10-02",
+      "license": null
+    },
+    {
+      "id": "200106",
+      "name": "Cheap Student Room near IST",
+      "host_name": "Carlos",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.720609,
+        "lng": -9.144077
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 30,
+      "last_review": "2025-09-10",
+      "license": "Exempt"
+    },
+    {
+      "id": "200107",
+      "name": "Principe Real Garden View",
+      "host_name": "Inês",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.71958,
+        "lng": -9.136742
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 210,
+      "last_review": "2025-09-25",
+      "license": "12312/AL"
+    },
+    {
+      "id": "200108",
+      "name": "Sunny Castelo S. Jorge",
+      "host_name": "João",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.71966,
+        "lng": -9.13115
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 110,
+      "last_review": "2025-08-30",
+      "license": "55667/AL"
+    },
+    {
+      "id": "200109",
+      "name": "Graça Miradouro Terrace",
+      "host_name": "João",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.719457,
+        "lng": -9.123654
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 105,
+      "last_review": "2025-09-12",
+      "license": "55668/AL"
+    },
+    {
+      "id": "200110",
+      "name": "LX Factory Industrial Loft",
+      "host_name": "BeGuest",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.728489,
+        "lng": -9.150388
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 95,
+      "last_review": "2025-10-05",
+      "license": "99001/AL"
+    },
+    {
+      "id": "200111",
+      "name": "Santos Design Flat",
+      "host_name": "BeGuest",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.727873,
+        "lng": -9.144091
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 140,
+      "last_review": "2025-10-01",
+      "license": "99002/AL"
+    },
+    {
+      "id": "200112",
+      "name": "Estrela Classic Apartment",
+      "host_name": "Teresa",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.728704,
+        "lng": -9.137771
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 85,
+      "last_review": "2025-06-15",
+      "license": "44332/AL"
+    },
+    {
+      "id": "200113",
+      "name": "Mouraria Fado House",
+      "host_name": "Fadista",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.727383,
+        "lng": -9.13054
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 70,
+      "last_review": "2025-09-20",
+      "license": "Exempt"
+    },
+    {
+      "id": "200114",
+      "name": "Avenida da Liberdade Penthouse",
+      "host_name": "LuxuryStay",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.727512,
+        "lng": -9.124059
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 350,
+      "last_review": "2025-09-29",
+      "license": "11122/AL"
+    },
+    {
+      "id": "200115",
+      "name": "Room near Benfica Stadium",
+      "host_name": "Jorge",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "BENFICA",
+      "price": 45,
+      "last_review": "2025-09-18",
+      "license": "Exempt"
+    },
+    {
+      "id": "200116",
+      "name": "Ajuda Palace neighbor",
+      "host_name": "Carla",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.736574,
+        "lng": -9.15037
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 55,
+      "last_review": null,
+      "license": "66778/AL"
+    },
+    {
+      "id": "200117",
+      "name": "Alvalade Student Room",
+      "host_name": "Dona Maria",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.736563,
+        "lng": -9.143441
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 35,
+      "last_review": "2025-09-10",
+      "license": "Exempt"
+    },
+    {
+      "id": "200118",
+      "name": "Olivais near Airport",
+      "host_name": "FlyHigh",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.73636,
+        "lng": -9.137713
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "LISBOA",
+      "price": 60,
+      "last_review": "2025-10-03",
+      "license": "88990/AL"
+    },
+    {
+      "id": "200119",
+      "name": "Sintra/Lisbon Outskirts Villa",
+      "host_name": "Pedro",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 38.8029,
+        "lng": -9.3817
+      },
+      "city": "Lisbon",
+      "neighbourhood_group": "SINTRA",
+      "price": 120,
+      "last_review": "2025-08-05",
+      "license": "44556/AL"
+    },
+    {
+      "id": "300100",
+      "name": "Braga Historic Center Apartment (Sé)",
+      "host_name": "Miguel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.541542,
+        "lng": -8.434266
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 60,
+      "last_review": "2025-09-12",
+      "license": "55443/AL"
+    },
+    {
+      "id": "300101",
+      "name": "Bom Jesus Nature Retreat",
+      "host_name": "Miguel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.542321,
+        "lng": -8.428033
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 75,
+      "last_review": "2025-08-20",
+      "license": "55444/AL"
+    },
+    {
+      "id": "300102",
+      "name": "Casa do Sameiro View",
+      "host_name": "Miguel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.541304,
+        "lng": -8.420339
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 50,
+      "last_review": "2024-12-01",
+      "license": "55445/AL"
+    },
+    {
+      "id": "300103",
+      "name": "Porta Nova Arch Studio",
+      "host_name": "Miguel",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.541185,
+        "lng": -8.414155
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 65,
+      "last_review": "2025-09-15",
+      "license": "55446/AL"
+    },
+    {
+      "id": "300104",
+      "name": "Room near University of Minho",
+      "host_name": "Beatriz",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.542201,
+        "lng": -8.40702
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 25,
+      "last_review": "2025-10-05",
+      "license": "Exempt"
+    },
+    {
+      "id": "300105",
+      "name": "Modern Flat in Avenida da Liberdade",
+      "host_name": "Joana",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.549605,
+        "lng": -8.433652
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 85,
+      "last_review": null,
+      "license": "88776/AL"
+    },
+    {
+      "id": "300106",
+      "name": "Low Cost Hostel Braga",
+      "host_name": "HostelWorld",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.549526,
+        "lng": -8.427674
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 15,
+      "last_review": "2025-09-30",
+      "license": "10020/AL"
+    },
+    {
+      "id": "300107",
+      "name": "Lamaçães Modern Suite",
+      "host_name": "Ricardo",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.549237,
+        "lng": -8.420269
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 80,
+      "last_review": "2025-09-22",
+      "license": "22334/AL"
+    },
+    {
+      "id": "300108",
+      "name": "Maximinos Budget Flat",
+      "host_name": "Ricardo",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.55045,
+        "lng": -8.414456
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 30,
+      "last_review": "2025-08-10",
+      "license": "22335/AL"
+    },
+    {
+      "id": "300109",
+      "name": "Arcada Central Room",
+      "host_name": "Sofia",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.549703,
+        "lng": -8.407533
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 70,
+      "last_review": "2025-09-05",
+      "license": "99881/AL"
+    },
+    {
+      "id": "300110",
+      "name": "Theatro Circo Luxury Suite",
+      "host_name": "Sofia",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.557254,
+        "lng": -8.433727
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 90,
+      "last_review": "2025-10-01",
+      "license": "99882/AL"
+    },
+    {
+      "id": "300111",
+      "name": "Biscainhos Garden House",
+      "host_name": "MuseuStay",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.55826,
+        "lng": -8.427403
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": null,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "300112",
+      "name": "Tibães Monastery Country House",
+      "host_name": "Frade",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.5818,
+        "lng": -8.4429
+      },
+      "city": "Braga",
+      "neighbourhood_group": "MIRE DE TIBÃES",
+      "price": 50,
+      "last_review": "2025-07-30",
+      "license": "11223/AL"
+    },
+    {
+      "id": "300113",
+      "name": "Gualtar Student Shared Room",
+      "host_name": "StudentHousing",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.557669,
+        "lng": -8.420722
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 28,
+      "last_review": "2025-09-15",
+      "license": "Exempt"
+    },
+    {
+      "id": "300114",
+      "name": "São Victor Townhouse",
+      "host_name": "Familia Silva",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.55765,
+        "lng": -8.41355
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 110,
+      "last_review": "2025-08-25",
+      "license": "66554/AL"
+    },
+    {
+      "id": "300115",
+      "name": "Nogueiró Luxury Villa with Pool",
+      "host_name": "Familia Silva",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.557797,
+        "lng": -8.407661
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 150,
+      "last_review": "2025-08-01",
+      "license": "66555/AL"
+    },
+    {
+      "id": "300116",
+      "name": "Ferreiros Stopover",
+      "host_name": "Tiago",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.566092,
+        "lng": -8.434233
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 40,
+      "last_review": "2025-09-11",
+      "license": "33445/AL"
+    },
+    {
+      "id": "300117",
+      "name": "Santa Tecla Cosy",
+      "host_name": "Tiago",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.566259,
+        "lng": -8.426897
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 35,
+      "last_review": "2025-09-20",
+      "license": "33446/AL"
+    },
+    {
+      "id": "300118",
+      "name": "Braga Stadium View (Pedreira)",
+      "host_name": "SCB Fan",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.565213,
+        "lng": -8.42124
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 85,
+      "last_review": "2025-10-04",
+      "license": "77889/AL"
+    },
+    {
+      "id": "300119",
+      "name": "Adaúfe Riverside Cottage",
+      "host_name": "NatureLover",
+      "country": "Portugal",
+      "coordinates": {
+        "lat": 41.565596,
+        "lng": -8.414774
+      },
+      "city": "Braga",
+      "neighbourhood_group": "BRAGA",
+      "price": 95,
+      "last_review": "2025-06-20",
+      "license": "12300/AL"
+    },
+    {
+      "id": "400100",
+      "name": "Sagrada Familia Views with Balcony",
+      "host_name": "Jordi",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.40678,
+        "lng": 2.187013
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "EIXAMPLE",
+      "price": 150,
+      "last_review": "2025-09-15",
+      "license": "HUTB-001234"
+    },
+    {
+      "id": "400101",
+      "name": "Gothic Quarter Historic Studio",
+      "host_name": "Marta",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.379845,
+        "lng": 2.168154
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "CIUTAT VELLA",
+      "price": 85,
+      "last_review": "2025-08-20",
+      "license": "HUTB-005678"
+    },
+    {
+      "id": "400102",
+      "name": "Sunny Beachfront Barceloneta",
+      "host_name": "Jordi",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.379346,
+        "lng": 2.18147
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "CIUTAT VELLA",
+      "price": 120,
+      "last_review": "2025-10-01",
+      "license": "HUTB-009988"
+    },
+    {
+      "id": "400103",
+      "name": "Luxury Paseo de Gracia Flat",
+      "host_name": "Lucas",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.404194,
+        "lng": 2.201607
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "EIXAMPLE",
+      "price": 250,
+      "last_review": "2025-09-28",
+      "license": null
+    },
+    {
+      "id": "400104",
+      "name": "Bohemian Gracia Loft",
+      "host_name": "Laia",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.414178,
+        "lng": 2.177077
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "GRACIA",
+      "price": null,
+      "last_review": "2025-07-15",
+      "license": "HUTB-004433"
+    },
+    {
+      "id": "400105",
+      "name": "Park Güell Quiet Retreat",
+      "host_name": "Jordi",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.414846,
+        "lng": 2.191156
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "GRACIA",
+      "price": 70,
+      "last_review": "2025-09-05",
+      "license": "HUTB-001122"
+    },
+    {
+      "id": "400106",
+      "name": "El Born Trendy Apartment",
+      "host_name": "Marta",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.392161,
+        "lng": 2.169102
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "CIUTAT VELLA",
+      "price": 110,
+      "last_review": "2025-09-22",
+      "license": "HUTB-007766"
+    },
+    {
+      "id": "400107",
+      "name": "Poble Sec Artist Studio",
+      "host_name": "Pau",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.353568,
+        "lng": 2.146563
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "SANTS-MONTJUIC",
+      "price": 60,
+      "last_review": "2025-08-10",
+      "license": "HUTB-002233"
+    },
+    {
+      "id": "400108",
+      "name": "Raval Vibrant Flat",
+      "host_name": "Pau",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.393155,
+        "lng": 2.181488
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "CIUTAT VELLA",
+      "price": 55,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "400109",
+      "name": "Diagonal Mar Ocean View",
+      "host_name": "Jordi",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.378669,
+        "lng": 2.166309
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "SANT MARTI",
+      "price": 180,
+      "last_review": "2025-09-30",
+      "license": "HUTB-008899"
+    },
+    {
+      "id": "400110",
+      "name": "Camp Nou Football Fan Flat",
+      "host_name": "Xavi",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.3651,
+        "lng": 2.1434
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "LES CORTS",
+      "price": 90,
+      "last_review": "2025-10-02",
+      "license": "HUTB-003344"
+    },
+    {
+      "id": "400111",
+      "name": "Sants Station Connection",
+      "host_name": "Nuria",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.355155,
+        "lng": 2.160018
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "SANTS-MONTJUIC",
+      "price": 65,
+      "last_review": "2025-09-12",
+      "license": "HUTB-005544"
+    },
+    {
+      "id": "400112",
+      "name": "Tibidabo Mountain House",
+      "host_name": "Nuria",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.3751,
+        "lng": 2.1334
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "SARRIÀ-SANT GERVASI",
+      "price": 130,
+      "last_review": null,
+      "license": "HUTB-006655"
+    },
+    {
+      "id": "400113",
+      "name": "Olympic Village Apartment",
+      "host_name": "Marc",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.377645,
+        "lng": 2.181311
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "SANT MARTI",
+      "price": 140,
+      "last_review": "2025-08-25",
+      "license": null
+    },
+    {
+      "id": "400114",
+      "name": "Horta Labyrinth Garden",
+      "host_name": "Marc",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.3851,
+        "lng": 2.1734
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "HORTA-GUINARDÓ",
+      "price": 50,
+      "last_review": "2025-09-18",
+      "license": "Exempt"
+    },
+    {
+      "id": "400115",
+      "name": "Glòries Tower View",
+      "host_name": "Elena BCN",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 41.391191,
+        "lng": 2.165587
+      },
+      "city": "Barcelona",
+      "neighbourhood_group": "SANT MARTI",
+      "price": 95,
+      "last_review": "2025-09-29",
+      "license": "HUTB-009900"
+    },
+    {
+      "id": "400200",
+      "name": "Plaza Mayor Attic",
+      "host_name": "Carlos",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.409759,
+        "lng": -3.712299
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CENTRO",
+      "price": 110,
+      "last_review": "2025-09-10",
+      "license": "VT-1234"
+    },
+    {
+      "id": "400201",
+      "name": "Malasaña Hipster Apartment",
+      "host_name": "Elena",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.408835,
+        "lng": -3.701229
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CENTRO",
+      "price": 80,
+      "last_review": "2025-08-30",
+      "license": "VT-5678"
+    },
+    {
+      "id": "400202",
+      "name": "Salamanca Luxury Suite",
+      "host_name": "Ignacio",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.4368,
+        "lng": -3.6938
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "SALAMANCA",
+      "price": 200,
+      "last_review": null,
+      "license": "VT-9999"
+    },
+    {
+      "id": "400203",
+      "name": "Retiro Park Bright Flat",
+      "host_name": "Elena",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.428839,
+        "lng": -3.689699
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "RETIRO",
+      "price": 95,
+      "last_review": "2025-09-22",
+      "license": "VT-4321"
+    },
+    {
+      "id": "400204",
+      "name": "Chueca Vibrant Studio",
+      "host_name": "Carlos",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.408963,
+        "lng": -3.6929
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CENTRO",
+      "price": 75,
+      "last_review": "2025-10-02",
+      "license": "Exempt"
+    },
+    {
+      "id": "400205",
+      "name": "Gran Vía Penthouse",
+      "host_name": "Carlos",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.418288,
+        "lng": -3.711285
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CENTRO",
+      "price": 160,
+      "last_review": "2025-09-15",
+      "license": "VT-8888"
+    },
+    {
+      "id": "400206",
+      "name": "Lavapiés Cultural Spot",
+      "host_name": "Ana Madrid",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.419918,
+        "lng": -3.702011
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CENTRO",
+      "price": 60,
+      "last_review": "2025-08-05",
+      "license": null
+    },
+    {
+      "id": "400207",
+      "name": "Atocha Station Convenient",
+      "host_name": "Ana Madrid",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.39785,
+        "lng": -3.730388
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "ARGANZUELA",
+      "price": 70,
+      "last_review": "2025-09-28",
+      "license": "VT-7777"
+    },
+    {
+      "id": "400208",
+      "name": "Chamberí Classic Flat",
+      "host_name": "Luis",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.4068,
+        "lng": -3.7138
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CHAMBERÍ",
+      "price": 120,
+      "last_review": "2025-09-18",
+      "license": "VT-6666"
+    },
+    {
+      "id": "400209",
+      "name": "Bernabéu Stadium View",
+      "host_name": "Luis",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.4468,
+        "lng": -3.7238
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "TETUÁN",
+      "price": 100,
+      "last_review": null,
+      "license": "VT-5555"
+    },
+    {
+      "id": "400210",
+      "name": "Puerta del Sol Studio",
+      "host_name": "Carlos",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.418966,
+        "lng": -3.692886
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CENTRO",
+      "price": 90,
+      "last_review": "2025-10-01",
+      "license": "VT-1111"
+    },
+    {
+      "id": "400211",
+      "name": "La Latina Tapas Area",
+      "host_name": "Elena",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.429023,
+        "lng": -3.712851
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "CENTRO",
+      "price": 85,
+      "last_review": "2025-09-12",
+      "license": "VT-2222"
+    },
+    {
+      "id": "400212",
+      "name": "Prado Museum Art Lovers",
+      "host_name": "Sofia",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.426557,
+        "lng": -3.67567
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "RETIRO",
+      "price": 130,
+      "last_review": "2025-08-25",
+      "license": "VT-3333"
+    },
+    {
+      "id": "400213",
+      "name": "Moncloa University Room",
+      "host_name": "Javier",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.3968,
+        "lng": -3.6938
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "MONCLOA",
+      "price": 40,
+      "last_review": "2025-09-30",
+      "license": "Exempt"
+    },
+    {
+      "id": "400214",
+      "name": "Casa de Campo Green",
+      "host_name": "Javier",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.3868,
+        "lng": -3.7338
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "LATINA",
+      "price": 55,
+      "last_review": "2025-09-05",
+      "license": "VT-4444"
+    },
+    {
+      "id": "400215",
+      "name": "Madrid Rio Modern",
+      "host_name": "Maria",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 40.39879,
+        "lng": -3.715328
+      },
+      "city": "Madrid",
+      "neighbourhood_group": "ARGANZUELA",
+      "price": null,
+      "last_review": "2025-09-20",
+      "license": "VT-0000"
+    },
+    {
+      "id": "400300",
+      "name": "Santa Cruz Authentic House",
+      "host_name": "Carmen",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3991,
+        "lng": -5.9745
+      },
+      "city": "Seville",
+      "neighbourhood_group": "SANTA CRUZ",
+      "price": 85,
+      "last_review": "2025-09-18",
+      "license": "VFT/SE/0001"
+    },
+    {
+      "id": "400301",
+      "name": "Triana River View",
+      "host_name": "Rafael",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.362356,
+        "lng": -5.999081
+      },
+      "city": "Seville",
+      "neighbourhood_group": "TRIANA",
+      "price": 65,
+      "last_review": "2025-09-12",
+      "license": "VFT/SE/0002"
+    },
+    {
+      "id": "400302",
+      "name": "Alcázar Patio Apartment",
+      "host_name": "Carmen",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3916,
+        "lng": -5.991847
+      },
+      "city": "Seville",
+      "neighbourhood_group": "CENTRO",
+      "price": 105,
+      "last_review": "2025-05-20",
+      "license": "VFT/SE/0003"
+    },
+    {
+      "id": "400303",
+      "name": "Alameda Rooftop Terrace",
+      "host_name": "Rafael",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3791,
+        "lng": -5.9945
+      },
+      "city": "Seville",
+      "neighbourhood_group": "ALAMEDA",
+      "price": 55,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "400304",
+      "name": "Giralda Tower View",
+      "host_name": "Carmen",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.38972,
+        "lng": -5.978541
+      },
+      "city": "Seville",
+      "neighbourhood_group": "CENTRO",
+      "price": 120,
+      "last_review": "2025-09-25",
+      "license": "VFT/SE/0004"
+    },
+    {
+      "id": "400305",
+      "name": "Macarena Traditional",
+      "host_name": "Lola",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.4091,
+        "lng": -5.9845
+      },
+      "city": "Seville",
+      "neighbourhood_group": "MACARENA",
+      "price": 50,
+      "last_review": "2025-08-30",
+      "license": "VFT/SE/0005"
+    },
+    {
+      "id": "400306",
+      "name": "Plaza de España Cozy",
+      "host_name": "Carmen",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3691,
+        "lng": -6.0145
+      },
+      "city": "Seville",
+      "neighbourhood_group": "SUR",
+      "price": 90,
+      "last_review": "2025-09-15",
+      "license": "VFT/SE/0006"
+    },
+    {
+      "id": "400307",
+      "name": "Nervión Shopping District",
+      "host_name": "Antonio Sev",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.418648,
+        "lng": -5.970109
+      },
+      "city": "Seville",
+      "neighbourhood_group": "NERVIÓN",
+      "price": 75,
+      "last_review": "2025-10-01",
+      "license": "VFT/SE/0007"
+    },
+    {
+      "id": "400308",
+      "name": "Betis Street Riverfront",
+      "host_name": "Rafael",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.361917,
+        "lng": -5.987742
+      },
+      "city": "Seville",
+      "neighbourhood_group": "TRIANA",
+      "price": null,
+      "last_review": "2025-09-05",
+      "license": "VFT/SE/0008"
+    },
+    {
+      "id": "400309",
+      "name": "Feria Market Studio",
+      "host_name": "Lola",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3891,
+        "lng": -5.9745
+      },
+      "city": "Seville",
+      "neighbourhood_group": "CASCO ANTIGUO",
+      "price": 60,
+      "last_review": "2025-08-15",
+      "license": null
+    },
+    {
+      "id": "400310",
+      "name": "Maestranza Bullring Flat",
+      "host_name": "Paco",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3791,
+        "lng": -5.9845
+      },
+      "city": "Seville",
+      "neighbourhood_group": "EL ARENAL",
+      "price": 95,
+      "last_review": "2025-09-22",
+      "license": "VFT/SE/0009"
+    },
+    {
+      "id": "400311",
+      "name": "Cartuja Island Modern",
+      "host_name": "Paco",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.377267,
+        "lng": -6.000327
+      },
+      "city": "Seville",
+      "neighbourhood_group": "TRIANA",
+      "price": 70,
+      "last_review": null,
+      "license": "VFT/SE/0010"
+    },
+    {
+      "id": "400312",
+      "name": "San Bernardo Quiet",
+      "host_name": "Maria Jose",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.420527,
+        "lng": -5.957448
+      },
+      "city": "Seville",
+      "neighbourhood_group": "NERVIÓN",
+      "price": 65,
+      "last_review": "2025-09-10",
+      "license": "VFT/SE/0011"
+    },
+    {
+      "id": "400313",
+      "name": "Los Remedios Fair",
+      "host_name": "Maria Jose",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3591,
+        "lng": -6.0045
+      },
+      "city": "Seville",
+      "neighbourhood_group": "LOS REMEDIOS",
+      "price": 80,
+      "last_review": "2025-05-01",
+      "license": "VFT/SE/0012"
+    },
+    {
+      "id": "400314",
+      "name": "Alfalfa Lively Square",
+      "host_name": "Antonio Sev",
+      "country": "Spain",
+      "coordinates": {
+        "lat": 37.3891,
+        "lng": -5.9845
+      },
+      "city": "Seville",
+      "neighbourhood_group": "ALFALFA",
+      "price": 88,
+      "last_review": "2025-09-30",
+      "license": "Exempt"
+    },
+    {
+      "id": "500100",
+      "name": "Eiffel Tower Romantic View",
+      "host_name": "Pierre",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8466,
+        "lng": 2.3522
+      },
+      "city": "Paris",
+      "neighbourhood_group": "7e ARR.",
+      "price": 350,
+      "last_review": "2025-10-01",
+      "license": "75107000"
+    },
+    {
+      "id": "500101",
+      "name": "Le Marais Chic Studio",
+      "host_name": "Sophie",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8666,
+        "lng": 2.3622
+      },
+      "city": "Paris",
+      "neighbourhood_group": "3e ARR.",
+      "price": 140,
+      "last_review": "2025-09-25",
+      "license": "75103000"
+    },
+    {
+      "id": "500102",
+      "name": "Montmartre Artist Atelier",
+      "host_name": "Pierre",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8466,
+        "lng": 2.3722
+      },
+      "city": "Paris",
+      "neighbourhood_group": "18e ARR.",
+      "price": 110,
+      "last_review": "2025-09-20",
+      "license": "75118000"
+    },
+    {
+      "id": "500103",
+      "name": "Louvre Museum Neighbor",
+      "host_name": "Pierre",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "city": "Paris",
+      "neighbourhood_group": "1er ARR.",
+      "price": 280,
+      "last_review": "2025-09-30",
+      "license": "75101000"
+    },
+    {
+      "id": "500104",
+      "name": "Champs-Élysées Luxury",
+      "host_name": "Jean",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8466,
+        "lng": 2.3422
+      },
+      "city": "Paris",
+      "neighbourhood_group": "8e ARR.",
+      "price": 400,
+      "last_review": "2025-09-15",
+      "license": null
+    },
+    {
+      "id": "500105",
+      "name": "Latin Quarter Student Flat",
+      "host_name": "Pierre",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3622
+      },
+      "city": "Paris",
+      "neighbourhood_group": "5e ARR.",
+      "price": 80,
+      "last_review": "2025-08-10",
+      "license": "75105000"
+    },
+    {
+      "id": "500106",
+      "name": "Canal Saint-Martin Loft",
+      "host_name": "Sophie",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8666,
+        "lng": 2.3422
+      },
+      "city": "Paris",
+      "neighbourhood_group": "10e ARR.",
+      "price": null,
+      "last_review": "2025-09-05",
+      "license": "Exempt"
+    },
+    {
+      "id": "500107",
+      "name": "Saint-Germain des Prés",
+      "host_name": "Pierre",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.845563,
+        "lng": 2.355665
+      },
+      "city": "Paris",
+      "neighbourhood_group": "6e ARR.",
+      "price": 220,
+      "last_review": "2025-10-03",
+      "license": "75106000"
+    },
+    {
+      "id": "500108",
+      "name": "Bastille Vibrant Flat",
+      "host_name": "Sophie",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8766,
+        "lng": 2.3522
+      },
+      "city": "Paris",
+      "neighbourhood_group": "11e ARR.",
+      "price": 100,
+      "last_review": "2025-09-12",
+      "license": "75111000"
+    },
+    {
+      "id": "500109",
+      "name": "Opera Garnier Suite",
+      "host_name": "Jean",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3422
+      },
+      "city": "Paris",
+      "neighbourhood_group": "9e ARR.",
+      "price": 180,
+      "last_review": null,
+      "license": "75109000"
+    },
+    {
+      "id": "500110",
+      "name": "Notre Dame View",
+      "host_name": "Claire",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8666,
+        "lng": 2.3522
+      },
+      "city": "Paris",
+      "neighbourhood_group": "4e ARR.",
+      "price": 250,
+      "last_review": "2025-09-18",
+      "license": "75104000"
+    },
+    {
+      "id": "500111",
+      "name": "Belleville Artistic",
+      "host_name": "Claire",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8766,
+        "lng": 2.3622
+      },
+      "city": "Paris",
+      "neighbourhood_group": "20e ARR.",
+      "price": 75,
+      "last_review": "2025-08-25",
+      "license": "75120000"
+    },
+    {
+      "id": "500112",
+      "name": "Montparnasse Studio",
+      "host_name": "Luc",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8366,
+        "lng": 2.3322
+      },
+      "city": "Paris",
+      "neighbourhood_group": "14e ARR.",
+      "price": 90,
+      "last_review": "2025-09-22",
+      "license": "75114000"
+    },
+    {
+      "id": "500113",
+      "name": "Place d'Italie Modern",
+      "host_name": "Luc",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8666,
+        "lng": 2.3322
+      },
+      "city": "Paris",
+      "neighbourhood_group": "13e ARR.",
+      "price": 85,
+      "last_review": "2025-09-08",
+      "license": "75113000"
+    },
+    {
+      "id": "500114",
+      "name": "Batignolles Village",
+      "host_name": "Marie",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8366,
+        "lng": 2.3522
+      },
+      "city": "Paris",
+      "neighbourhood_group": "17e ARR.",
+      "price": 110,
+      "last_review": "2025-09-15",
+      "license": "Exempt"
+    },
+    {
+      "id": "500115",
+      "name": "La Villette Canal",
+      "host_name": "Marie",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8666,
+        "lng": 2.3722
+      },
+      "city": "Paris",
+      "neighbourhood_group": "19e ARR.",
+      "price": 70,
+      "last_review": "2025-08-30",
+      "license": "75119000"
+    },
+    {
+      "id": "500116",
+      "name": "Passy Trocadero",
+      "host_name": "Antoine",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8366,
+        "lng": 2.3422
+      },
+      "city": "Paris",
+      "neighbourhood_group": "16e ARR.",
+      "price": 190,
+      "last_review": "2025-10-02",
+      "license": "75116000"
+    },
+    {
+      "id": "500117",
+      "name": "Bercy Village",
+      "host_name": "Antoine",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.8766,
+        "lng": 2.3422
+      },
+      "city": "Paris",
+      "neighbourhood_group": "12e ARR.",
+      "price": 95,
+      "last_review": "2025-09-10",
+      "license": "75112000"
+    },
+    {
+      "id": "500118",
+      "name": "Luxembourg Gardens",
+      "host_name": "Pierre",
+      "country": "France",
+      "coordinates": {
+        "lat": 48.847512,
+        "lng": 2.368839
+      },
+      "city": "Paris",
+      "neighbourhood_group": "6e ARR.",
+      "price": 160,
+      "last_review": "2025-09-28",
+      "license": "75106001"
+    },
+    {
+      "id": "600100",
+      "name": "Colosseum Direct View",
+      "host_name": "Giovanni",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "city": "Rome",
+      "neighbourhood_group": "MONTI",
+      "price": 220,
+      "last_review": "2025-09-28",
+      "license": "QA/2023/11"
+    },
+    {
+      "id": "600101",
+      "name": "Trastevere Charming Street",
+      "host_name": "Francesca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.8828,
+        "lng": 12.4964
+      },
+      "city": "Rome",
+      "neighbourhood_group": "TRASTEVERE",
+      "price": 130,
+      "last_review": "2025-09-15",
+      "license": "QA/2023/12"
+    },
+    {
+      "id": "600102",
+      "name": "Vatican City Steps",
+      "host_name": "Giovanni",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.8928,
+        "lng": 12.5064
+      },
+      "city": "Rome",
+      "neighbourhood_group": "PRATI",
+      "price": 100,
+      "last_review": null,
+      "license": "QA/2023/13"
+    },
+    {
+      "id": "600103",
+      "name": "Trevi Fountain Attic",
+      "host_name": "Luca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "city": "Rome",
+      "neighbourhood_group": "TREVI",
+      "price": 180,
+      "last_review": "2025-08-25",
+      "license": null
+    },
+    {
+      "id": "600104",
+      "name": "Termini Station Budget",
+      "host_name": "Marco",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9128,
+        "lng": 12.5064
+      },
+      "city": "Rome",
+      "neighbourhood_group": "ESQUILINO",
+      "price": 50,
+      "last_review": "2025-09-10",
+      "license": "Exempt"
+    },
+    {
+      "id": "600105",
+      "name": "Pantheon Historic Suite",
+      "host_name": "Francesca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9028,
+        "lng": 12.4864
+      },
+      "city": "Rome",
+      "neighbourhood_group": "PIGNA",
+      "price": null,
+      "last_review": "2025-09-01",
+      "license": "QA/2023/15"
+    },
+    {
+      "id": "600106",
+      "name": "Spanish Steps Luxury",
+      "host_name": "Giovanni",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.8928,
+        "lng": 12.4964
+      },
+      "city": "Rome",
+      "neighbourhood_group": "CAMPO MARZIO",
+      "price": 250,
+      "last_review": "2025-10-03",
+      "license": "QA/2023/16"
+    },
+    {
+      "id": "600107",
+      "name": "Campo de Fiori Market",
+      "host_name": "Luca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.895761,
+        "lng": 12.491152
+      },
+      "city": "Rome",
+      "neighbourhood_group": "PARIONE",
+      "price": 140,
+      "last_review": "2025-09-20",
+      "license": "QA/2023/17"
+    },
+    {
+      "id": "600108",
+      "name": "Piazza Navona Gem",
+      "host_name": "Francesca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.89371,
+        "lng": 12.50314
+      },
+      "city": "Rome",
+      "neighbourhood_group": "PARIONE",
+      "price": 160,
+      "last_review": "2025-09-29",
+      "license": "QA/2023/18"
+    },
+    {
+      "id": "600109",
+      "name": "Testaccio Foodie Area",
+      "host_name": "Marco",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.8828,
+        "lng": 12.4864
+      },
+      "city": "Rome",
+      "neighbourhood_group": "TESTACCIO",
+      "price": 80,
+      "last_review": "2025-08-30",
+      "license": "Exempt"
+    },
+    {
+      "id": "600110",
+      "name": "San Lorenzo Student Vibe",
+      "host_name": "Marco",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9128,
+        "lng": 12.5164
+      },
+      "city": "Rome",
+      "neighbourhood_group": "SAN LORENZO",
+      "price": 45,
+      "last_review": "2025-09-12",
+      "license": "QA/2023/20"
+    },
+    {
+      "id": "600111",
+      "name": "Borghese Gardens View",
+      "host_name": "Alessandro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9128,
+        "lng": 12.4964
+      },
+      "city": "Rome",
+      "neighbourhood_group": "PINCIANO",
+      "price": 190,
+      "last_review": null,
+      "license": "QA/2023/21"
+    },
+    {
+      "id": "600112",
+      "name": "Roman Forum Apartment",
+      "host_name": "Giovanni",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.8928,
+        "lng": 12.4864
+      },
+      "city": "Rome",
+      "neighbourhood_group": "CAMPITELLI",
+      "price": 210,
+      "last_review": "2025-10-01",
+      "license": "QA/2023/22"
+    },
+    {
+      "id": "600113",
+      "name": "Appia Antica Villa",
+      "host_name": "Alessandro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9228,
+        "lng": 12.5064
+      },
+      "city": "Rome",
+      "neighbourhood_group": "APPIO",
+      "price": 300,
+      "last_review": "2025-07-15",
+      "license": "QA/2023/23"
+    },
+    {
+      "id": "600114",
+      "name": "Ostiense Industrial Loft",
+      "host_name": "Giulia",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.8828,
+        "lng": 12.4764
+      },
+      "city": "Rome",
+      "neighbourhood_group": "OSTIENSE",
+      "price": 90,
+      "last_review": "2025-09-05",
+      "license": "QA/2023/24"
+    },
+    {
+      "id": "600115",
+      "name": "Coppedè District Art Nouveau",
+      "host_name": "Giulia",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 41.9228,
+        "lng": 12.4964
+      },
+      "city": "Rome",
+      "neighbourhood_group": "TRIESTE",
+      "price": 115,
+      "last_review": "2025-09-25",
+      "license": null
+    },
+    {
+      "id": "700100",
+      "name": "Vieux Lyon Renaissance",
+      "host_name": "Antoine",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.747768,
+        "lng": 4.840395
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "5e ARR.",
+      "price": 90,
+      "last_review": "2025-09-10",
+      "license": "69385123"
+    },
+    {
+      "id": "700101",
+      "name": "Presqu'île Shopping District",
+      "host_name": "Antoine",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.768179,
+        "lng": 4.829509
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "2e ARR.",
+      "price": null,
+      "last_review": "2025-08-22",
+      "license": "69385124"
+    },
+    {
+      "id": "700102",
+      "name": "Part-Dieu Business Flat",
+      "host_name": "Antoine",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.774,
+        "lng": 4.8457
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "3e ARR.",
+      "price": 60,
+      "last_review": "2025-10-01",
+      "license": "69385125"
+    },
+    {
+      "id": "700103",
+      "name": "Croix-Rousse Canuts Loft",
+      "host_name": "Marie",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.764,
+        "lng": 4.8457
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "4e ARR.",
+      "price": 75,
+      "last_review": "2025-09-15",
+      "license": "69385222"
+    },
+    {
+      "id": "700104",
+      "name": "Confluence Modern Architecture",
+      "host_name": "Marie",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.768336,
+        "lng": 4.844693
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "2e ARR.",
+      "price": null,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "700105",
+      "name": "Fourvière Hilltop View",
+      "host_name": "Jean",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.748426,
+        "lng": 4.852961
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "5e ARR.",
+      "price": 150,
+      "last_review": "2025-09-20",
+      "license": "69385333"
+    },
+    {
+      "id": "700106",
+      "name": "Tête d'Or Park Side",
+      "host_name": "Sophie",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.75521,
+        "lng": 4.829127
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "6e ARR.",
+      "price": null,
+      "last_review": "2025-07-30",
+      "license": null
+    },
+    {
+      "id": "700107",
+      "name": "Gerland Stadium Room",
+      "host_name": "Sophie",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.747083,
+        "lng": 4.821565
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "7e ARR.",
+      "price": 55,
+      "last_review": "2025-10-05",
+      "license": "69385444"
+    },
+    {
+      "id": "700108",
+      "name": "Brotteaux Luxury Suite",
+      "host_name": "Paul",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.75396,
+        "lng": 4.843272
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "6e ARR.",
+      "price": 200,
+      "last_review": "2025-09-01",
+      "license": "69385555"
+    },
+    {
+      "id": "700109",
+      "name": "Guillotière Vibrant Street",
+      "host_name": "Lucas",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.748105,
+        "lng": 4.834578
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "7e ARR.",
+      "price": 45,
+      "last_review": "2025-09-12",
+      "license": "Exempt"
+    },
+    {
+      "id": "700110",
+      "name": "Université Lyon 2 Studio",
+      "host_name": "Lucas",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.760315,
+        "lng": 4.820135
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "7e ARR.",
+      "price": null,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "700111",
+      "name": "Perrache Train Station Stop",
+      "host_name": "Camille",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.782507,
+        "lng": 4.829505
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "2e ARR.",
+      "price": null,
+      "last_review": "2025-08-10",
+      "license": "69385666"
+    },
+    {
+      "id": "700112",
+      "name": "Vaise Tech Hub",
+      "host_name": "Nicolas",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.774,
+        "lng": 4.8257
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "9e ARR.",
+      "price": 65,
+      "last_review": "2025-09-25",
+      "license": "69385777"
+    },
+    {
+      "id": "700113",
+      "name": "Monplaisir Cinema History",
+      "host_name": "Léa",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.764,
+        "lng": 4.8257
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "8e ARR.",
+      "price": null,
+      "last_review": "2025-10-02",
+      "license": "69385888"
+    },
+    {
+      "id": "700114",
+      "name": "Saint-Just Funicular",
+      "host_name": "Thomas",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.763143,
+        "lng": 4.838327
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "5e ARR.",
+      "price": 80,
+      "last_review": "2025-09-08",
+      "license": "69385999"
+    },
+    {
+      "id": "700115",
+      "name": "Hotel de Ville Opera",
+      "host_name": "Antoine",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "1er ARR.",
+      "price": 110,
+      "last_review": "2025-09-18",
+      "license": "69385000"
+    },
+    {
+      "id": "700116",
+      "name": "Saone River Boat",
+      "host_name": "Captain Joe",
+      "country": "France",
+      "coordinates": {
+        "lat": 45.780889,
+        "lng": 4.8435
+      },
+      "city": "Lyon",
+      "neighbourhood_group": "2e ARR.",
+      "price": null,
+      "last_review": null,
+      "license": "Exempt"
+    },
+    {
+      "id": "800100",
+      "name": "Vieux-Port Sunset View",
+      "host_name": "Michel",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.291482,
+        "lng": 5.362371
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "1er ARR.",
+      "price": 85,
+      "last_review": "2025-09-20",
+      "license": "13001001"
+    },
+    {
+      "id": "800101",
+      "name": "Le Panier Historic Gem",
+      "host_name": "Michel",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.304084,
+        "lng": 5.364809
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "2e ARR.",
+      "price": null,
+      "last_review": "2025-08-15",
+      "license": "13002002"
+    },
+    {
+      "id": "800102",
+      "name": "Corniche Kennedy Luxury",
+      "host_name": "Michel",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.281064,
+        "lng": 5.36306
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "7e ARR.",
+      "price": 200,
+      "last_review": "2025-09-30",
+      "license": "13007003"
+    },
+    {
+      "id": "800103",
+      "name": "Prado Beach Apartment 1",
+      "host_name": "Agence Sud",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.281446,
+        "lng": 5.352548
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "8e ARR.",
+      "price": 120,
+      "last_review": "2025-09-10",
+      "license": "13008004"
+    },
+    {
+      "id": "800104",
+      "name": "Prado Beach Apartment 2",
+      "host_name": "Agence Sud",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.281071,
+        "lng": 5.361551
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "8e ARR.",
+      "price": null,
+      "last_review": "2025-09-11",
+      "license": "13008005"
+    },
+    {
+      "id": "800105",
+      "name": "Prado Beach Apartment 3",
+      "host_name": "Agence Sud",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.283223,
+        "lng": 5.372225
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "8e ARR.",
+      "price": 130,
+      "last_review": null,
+      "license": "13008006"
+    },
+    {
+      "id": "800106",
+      "name": "Castellane Metro Hub",
+      "host_name": "Agence Sud",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.281485,
+        "lng": 5.37473
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "6e ARR.",
+      "price": null,
+      "last_review": "2025-08-01",
+      "license": "13006007"
+    },
+    {
+      "id": "800107",
+      "name": "Vélodrome Stadium View",
+      "host_name": "Agence Sud",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.294425,
+        "lng": 5.352723
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "8e ARR.",
+      "price": null,
+      "last_review": "2025-10-01",
+      "license": "13008008"
+    },
+    {
+      "id": "800108",
+      "name": "L'Estaque Artist Village",
+      "host_name": "Sarah",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.3165,
+        "lng": 5.3498
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "16e ARR.",
+      "price": null,
+      "last_review": "2025-07-20",
+      "license": "Exempt"
+    },
+    {
+      "id": "800109",
+      "name": "Les Goudes Fisherman Cabin",
+      "host_name": "Sarah",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.296207,
+        "lng": 5.362034
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "8e ARR.",
+      "price": 150,
+      "last_review": "2025-09-05",
+      "license": "13008009"
+    },
+    {
+      "id": "800110",
+      "name": "Joliette Docks",
+      "host_name": "Karim",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.307361,
+        "lng": 5.377641
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "2e ARR.",
+      "price": 70,
+      "last_review": "2025-09-25",
+      "license": "13002010"
+    },
+    {
+      "id": "800111",
+      "name": "Noailles Market Chaos",
+      "host_name": "Karim",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.291327,
+        "lng": 5.37135
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "1er ARR.",
+      "price": null,
+      "last_review": "2025-09-15",
+      "license": null
+    },
+    {
+      "id": "800112",
+      "name": "La Timone Student Flat",
+      "host_name": "UniversityHousing",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.298611,
+        "lng": 5.372591
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "5e ARR.",
+      "price": 40,
+      "last_review": "2025-10-02",
+      "license": "Exempt"
+    },
+    {
+      "id": "800113",
+      "name": "Endoume Rock",
+      "host_name": "Julie",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.282569,
+        "lng": 5.378225
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "7e ARR.",
+      "price": null,
+      "last_review": "2025-08-30",
+      "license": "13007011"
+    },
+    {
+      "id": "800114",
+      "name": "Pointe Rouge Surf Spot",
+      "host_name": "Julie",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.294311,
+        "lng": 5.371793
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "8e ARR.",
+      "price": null,
+      "last_review": null,
+      "license": "13008012"
+    },
+    {
+      "id": "800115",
+      "name": "Frioul Island Escape",
+      "host_name": "Marc",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.292696,
+        "lng": 5.382723
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "1er ARR.",
+      "price": 110,
+      "last_review": "2025-07-15",
+      "license": "Exempt"
+    },
+    {
+      "id": "800116",
+      "name": "Canebière Central",
+      "host_name": "Marc",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.30555,
+        "lng": 5.361486
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "1er ARR.",
+      "price": null,
+      "last_review": "2025-09-28",
+      "license": "13001013"
+    },
+    {
+      "id": "800117",
+      "name": "Saint-Charles Station",
+      "host_name": "HostelMarseille",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.305379,
+        "lng": 5.372036
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "1er ARR.",
+      "price": 50,
+      "last_review": "2025-10-03",
+      "license": "13001014"
+    },
+    {
+      "id": "800118",
+      "name": "Longchamp Palace View",
+      "host_name": "Pierre Sud",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.3065,
+        "lng": 5.3798
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "4e ARR.",
+      "price": null,
+      "last_review": "2025-09-12",
+      "license": "13004015"
+    },
+    {
+      "id": "800119",
+      "name": "Notre-Dame de la Garde Foot",
+      "host_name": "Pierre Sud",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.279082,
+        "lng": 5.385665
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "6e ARR.",
+      "price": 95,
+      "last_review": "2025-08-20",
+      "license": "13006016"
+    },
+    {
+      "id": "800120",
+      "name": "Vallon des Auffes Port",
+      "host_name": "Marine",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.294824,
+        "lng": 5.364692
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "7e ARR.",
+      "price": 140,
+      "last_review": "2025-09-18",
+      "license": "13007017"
+    },
+    {
+      "id": "800121",
+      "name": "Catalans Beach",
+      "host_name": "Marine",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.296021,
+        "lng": 5.378736
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "7e ARR.",
+      "price": null,
+      "last_review": null,
+      "license": "13007018"
+    },
+    {
+      "id": "800122",
+      "name": "La Plaine Hipster",
+      "host_name": "Lucas",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.297579,
+        "lng": 5.387455
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "5e ARR.",
+      "price": 60,
+      "last_review": "2025-09-22",
+      "license": null
+    },
+    {
+      "id": "800123",
+      "name": "Cours Julien Art",
+      "host_name": "Lucas",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.293482,
+        "lng": 5.373254
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "6e ARR.",
+      "price": null,
+      "last_review": "2025-08-10",
+      "license": "13006019"
+    },
+    {
+      "id": "800124",
+      "name": "Sormiou Calanque",
+      "host_name": "NatureGuy",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.297468,
+        "lng": 5.353778
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "9e ARR.",
+      "price": 180,
+      "last_review": "2025-07-01",
+      "license": "Exempt"
+    },
+    {
+      "id": "800125",
+      "name": "Mazargues Village",
+      "host_name": "NatureGuy",
+      "country": "France",
+      "coordinates": {
+        "lat": 43.295744,
+        "lng": 5.366693
+      },
+      "city": "Marseille",
+      "neighbourhood_group": "9e ARR.",
+      "price": null,
+      "last_review": "2025-09-05",
+      "license": "13009020"
+    },
+    {
+      "id": "900100",
+      "name": "Duomo View Luxury Apartment",
+      "host_name": "Lorenzo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.763979,
+        "lng": 11.249035
+      },
+      "city": "Florence",
+      "neighbourhood_group": "CENTRO STORICO",
+      "price": 250,
+      "last_review": "2025-09-15",
+      "license": "048017LTN1234"
+    },
+    {
+      "id": "900101",
+      "name": "Uffizi Gallery Suite",
+      "host_name": "Lorenzo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.762636,
+        "lng": 11.263133
+      },
+      "city": "Florence",
+      "neighbourhood_group": "CENTRO STORICO",
+      "price": 180,
+      "last_review": "2025-09-20",
+      "license": "048017LTN1235"
+    },
+    {
+      "id": "900102",
+      "name": "Ponte Vecchio Romantic",
+      "host_name": "Lorenzo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.778024,
+        "lng": 11.249187
+      },
+      "city": "Florence",
+      "neighbourhood_group": "CENTRO STORICO",
+      "price": null,
+      "last_review": "2025-08-30",
+      "license": "048017LTN1236"
+    },
+    {
+      "id": "900103",
+      "name": "Santa Croce Historic",
+      "host_name": "Lorenzo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7796,
+        "lng": 11.2658
+      },
+      "city": "Florence",
+      "neighbourhood_group": "SANTA CROCE",
+      "price": 120,
+      "last_review": "2025-10-01",
+      "license": "048017LTN1237"
+    },
+    {
+      "id": "900104",
+      "name": "San Lorenzo Market Flat",
+      "host_name": "Lorenzo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7696,
+        "lng": 11.2658
+      },
+      "city": "Florence",
+      "neighbourhood_group": "SAN LORENZO",
+      "price": 95,
+      "last_review": null,
+      "license": "048017LTN1238"
+    },
+    {
+      "id": "900105",
+      "name": "Oltrarno Artisan Studio",
+      "host_name": "Giulia",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.75336,
+        "lng": 11.240435
+      },
+      "city": "Florence",
+      "neighbourhood_group": "OLTRARNO",
+      "price": 85,
+      "last_review": "2025-09-10",
+      "license": "048017LTN5555"
+    },
+    {
+      "id": "900106",
+      "name": "Santo Spirito Bohemian",
+      "host_name": "Giulia",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.754598,
+        "lng": 11.254235
+      },
+      "city": "Florence",
+      "neighbourhood_group": "OLTRARNO",
+      "price": null,
+      "last_review": "2025-09-25",
+      "license": "048017LTN5556"
+    },
+    {
+      "id": "900107",
+      "name": "Boboli Gardens Retreat",
+      "host_name": "Giulia",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.768172,
+        "lng": 11.24154
+      },
+      "city": "Florence",
+      "neighbourhood_group": "OLTRARNO",
+      "price": 110,
+      "last_review": "2025-08-15",
+      "license": null
+    },
+    {
+      "id": "900108",
+      "name": "Fiesole Panoramic Villa",
+      "host_name": "Marco",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7996,
+        "lng": 11.2758
+      },
+      "city": "Florence",
+      "neighbourhood_group": "FIESOLE",
+      "price": 300,
+      "last_review": "2025-07-20",
+      "license": "048017LTN9999"
+    },
+    {
+      "id": "900109",
+      "name": "Campo di Marte Stadium",
+      "host_name": "Marco",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7896,
+        "lng": 11.2658
+      },
+      "city": "Florence",
+      "neighbourhood_group": "CAMPO DI MARTE",
+      "price": 70,
+      "last_review": "2025-09-28",
+      "license": "Exempt"
+    },
+    {
+      "id": "900110",
+      "name": "Santa Maria Novella Hub",
+      "host_name": "Elisa",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7596,
+        "lng": 11.2558
+      },
+      "city": "Florence",
+      "neighbourhood_group": "SANTA MARIA NOVELLA",
+      "price": 100,
+      "last_review": "2025-10-02",
+      "license": "048017LTN7777"
+    },
+    {
+      "id": "900111",
+      "name": "San Marco Museum",
+      "host_name": "Elisa",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7796,
+        "lng": 11.2558
+      },
+      "city": "Florence",
+      "neighbourhood_group": "SAN MARCO",
+      "price": 90,
+      "last_review": "2025-09-05",
+      "license": null
+    },
+    {
+      "id": "900112",
+      "name": "Fortezza da Basso Expo",
+      "host_name": "Roberto",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7696,
+        "lng": 11.2758
+      },
+      "city": "Florence",
+      "neighbourhood_group": "FORTEZZA",
+      "price": 80,
+      "last_review": "2025-09-18",
+      "license": "048017LTN3333"
+    },
+    {
+      "id": "900113",
+      "name": "Piazzale Michelangelo View",
+      "host_name": "Roberto",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.768407,
+        "lng": 11.253713
+      },
+      "city": "Florence",
+      "neighbourhood_group": "OLTRARNO",
+      "price": 140,
+      "last_review": null,
+      "license": "048017LTN3334"
+    },
+    {
+      "id": "900114",
+      "name": "Leopolda Station Loft",
+      "host_name": "Sara",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7596,
+        "lng": 11.2558
+      },
+      "city": "Florence",
+      "neighbourhood_group": "PORTA AL PRATO",
+      "price": null,
+      "last_review": "2025-09-12",
+      "license": "048017LTN2222"
+    },
+    {
+      "id": "900115",
+      "name": "Rifredi Student Flat",
+      "host_name": "Sara",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7896,
+        "lng": 11.2758
+      },
+      "city": "Florence",
+      "neighbourhood_group": "RIFREDI",
+      "price": 50,
+      "last_review": "2025-09-30",
+      "license": "Exempt"
+    },
+    {
+      "id": "900116",
+      "name": "Careggi Hospital Room",
+      "host_name": "Daniele",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7896,
+        "lng": 11.2558
+      },
+      "city": "Florence",
+      "neighbourhood_group": "CAREGGI",
+      "price": 45,
+      "last_review": "2025-08-25",
+      "license": "Exempt"
+    },
+    {
+      "id": "900117",
+      "name": "Novoli Court Area",
+      "host_name": "Daniele",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7796,
+        "lng": 11.2758
+      },
+      "city": "Florence",
+      "neighbourhood_group": "NOVOLI",
+      "price": 60,
+      "last_review": "2025-10-05",
+      "license": null
+    },
+    {
+      "id": "900118",
+      "name": "Gavinana Quiet Street",
+      "host_name": "Chiara",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7496,
+        "lng": 11.2458
+      },
+      "city": "Florence",
+      "neighbourhood_group": "GAVINANA",
+      "price": 75,
+      "last_review": "2025-09-15",
+      "license": "048017LTN1111"
+    },
+    {
+      "id": "900119",
+      "name": "Settignano Hillside",
+      "host_name": "Chiara",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7996,
+        "lng": 11.2658
+      },
+      "city": "Florence",
+      "neighbourhood_group": "SETTIGNANO",
+      "price": 110,
+      "last_review": null,
+      "license": "048017LTN1112"
+    },
+    {
+      "id": "900120",
+      "name": "Isolotto Family Home",
+      "host_name": "Pietro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 43.7496,
+        "lng": 11.2358
+      },
+      "city": "Florence",
+      "neighbourhood_group": "ISOLOTTO",
+      "price": 65,
+      "last_review": "2025-08-10",
+      "license": "048017LTN4444"
+    },
+    {
+      "id": "950100",
+      "name": "Duomo Milan Exclusive View",
+      "host_name": "Alessandro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.458263,
+        "lng": 9.18206
+      },
+      "city": "Milan",
+      "neighbourhood_group": "CENTRO STORICO",
+      "price": 300,
+      "last_review": "2025-09-28",
+      "license": "015146-CIM-00001"
+    },
+    {
+      "id": "950101",
+      "name": "Galleria Vittorio Emanuele",
+      "host_name": "Alessandro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.457295,
+        "lng": 9.195394
+      },
+      "city": "Milan",
+      "neighbourhood_group": "CENTRO STORICO",
+      "price": 350,
+      "last_review": "2025-10-01",
+      "license": "015146-CIM-00002"
+    },
+    {
+      "id": "950102",
+      "name": "Brera Design District",
+      "host_name": "Alessandro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4742,
+        "lng": 9.19
+      },
+      "city": "Milan",
+      "neighbourhood_group": "BRERA",
+      "price": 220,
+      "last_review": "2025-09-15",
+      "license": "015146-CIM-00003"
+    },
+    {
+      "id": "950103",
+      "name": "Montenapoleone Fashion",
+      "host_name": "Alessandro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4642,
+        "lng": 9.2
+      },
+      "city": "Milan",
+      "neighbourhood_group": "QUADRILATERO",
+      "price": 400,
+      "last_review": "2025-09-10",
+      "license": "015146-CIM-00004"
+    },
+    {
+      "id": "950104",
+      "name": "San Babila Luxury",
+      "host_name": "Alessandro",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.471241,
+        "lng": 9.182434
+      },
+      "city": "Milan",
+      "neighbourhood_group": "CENTRO STORICO",
+      "price": 280,
+      "last_review": null,
+      "license": "015146-CIM-00005"
+    },
+    {
+      "id": "950105",
+      "name": "Navigli Canal View",
+      "host_name": "Matteo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.454192,
+        "lng": 9.17177
+      },
+      "city": "Milan",
+      "neighbourhood_group": "NAVIGLI",
+      "price": 110,
+      "last_review": "2025-09-22",
+      "license": "015146-CIM-00123"
+    },
+    {
+      "id": "950106",
+      "name": "Darsena Nightlife",
+      "host_name": "Matteo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.456234,
+        "lng": 9.186429
+      },
+      "city": "Milan",
+      "neighbourhood_group": "NAVIGLI",
+      "price": 120,
+      "last_review": "2025-09-30",
+      "license": "015146-CIM-00124"
+    },
+    {
+      "id": "950107",
+      "name": "Tortona Design Studio",
+      "host_name": "Matteo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4542,
+        "lng": 9.17
+      },
+      "city": "Milan",
+      "neighbourhood_group": "TORTONA",
+      "price": null,
+      "last_review": "2025-08-20",
+      "license": "Exempt"
+    },
+    {
+      "id": "950108",
+      "name": "Isola Vertical Forest",
+      "host_name": "Francesca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.476389,
+        "lng": 9.204786
+      },
+      "city": "Milan",
+      "neighbourhood_group": "ISOLA",
+      "price": 150,
+      "last_review": "2025-10-03",
+      "license": "015146-CIM-00789"
+    },
+    {
+      "id": "950109",
+      "name": "Garibaldi Station Modern",
+      "host_name": "Francesca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4734,
+        "lng": 9.216902
+      },
+      "city": "Milan",
+      "neighbourhood_group": "ISOLA",
+      "price": 130,
+      "last_review": "2025-09-18",
+      "license": "015146-CIM-00790"
+    },
+    {
+      "id": "950110",
+      "name": "Porta Nuova Skyline",
+      "host_name": "Francesca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4742,
+        "lng": 9.2
+      },
+      "city": "Milan",
+      "neighbourhood_group": "PORTA NUOVA",
+      "price": 180,
+      "last_review": null,
+      "license": "015146-CIM-00791"
+    },
+    {
+      "id": "950111",
+      "name": "Porta Venezia Liberty",
+      "host_name": "Luca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.476266,
+        "lng": 9.185343
+      },
+      "city": "Milan",
+      "neighbourhood_group": "PORTA VENEZIA",
+      "price": 100,
+      "last_review": "2025-09-12",
+      "license": "015146-CIM-00555"
+    },
+    {
+      "id": "950112",
+      "name": "Buenos Aires Shopping",
+      "host_name": "Luca",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.476678,
+        "lng": 9.196961
+      },
+      "city": "Milan",
+      "neighbourhood_group": "PORTA VENEZIA",
+      "price": 90,
+      "last_review": "2025-08-15",
+      "license": null
+    },
+    {
+      "id": "950113",
+      "name": "Centrale Station Hub",
+      "host_name": "HotelMilano",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4642,
+        "lng": 9.18
+      },
+      "city": "Milan",
+      "neighbourhood_group": "CENTRALE",
+      "price": 80,
+      "last_review": "2025-10-05",
+      "license": "015146-ALB-00111"
+    },
+    {
+      "id": "950114",
+      "name": "NoLo Creative District",
+      "host_name": "Giulia",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4842,
+        "lng": 9.2
+      },
+      "city": "Milan",
+      "neighbourhood_group": "NOLO",
+      "price": 70,
+      "last_review": "2025-09-25",
+      "license": "015146-CIM-00222"
+    },
+    {
+      "id": "950115",
+      "name": "Loreto Metro Access",
+      "host_name": "Giulia",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4842,
+        "lng": 9.21
+      },
+      "city": "Milan",
+      "neighbourhood_group": "LORETO",
+      "price": 60,
+      "last_review": "2025-09-05",
+      "license": "Exempt"
+    },
+    {
+      "id": "950116",
+      "name": "City Life Modern Park",
+      "host_name": "Paolo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4542,
+        "lng": 9.18
+      },
+      "city": "Milan",
+      "neighbourhood_group": "CITY LIFE",
+      "price": 160,
+      "last_review": "2025-09-20",
+      "license": "015146-CIM-00333"
+    },
+    {
+      "id": "950117",
+      "name": "Fiera Milano Expo",
+      "host_name": "Paolo",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4442,
+        "lng": 9.17
+      },
+      "city": "Milan",
+      "neighbourhood_group": "FIERA",
+      "price": 110,
+      "last_review": null,
+      "license": "015146-CIM-00334"
+    },
+    {
+      "id": "950118",
+      "name": "San Siro Stadium",
+      "host_name": "InterMilanFan",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4442,
+        "lng": 9.21
+      },
+      "city": "Milan",
+      "neighbourhood_group": "SAN SIRO",
+      "price": 95,
+      "last_review": "2025-10-02",
+      "license": "015146-CIM-00444"
+    },
+    {
+      "id": "950119",
+      "name": "Chinatown Sarpi",
+      "host_name": "Davide",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4842,
+        "lng": 9.19
+      },
+      "city": "Milan",
+      "neighbourhood_group": "SARPI",
+      "price": 85,
+      "last_review": "2025-09-10",
+      "license": null
+    },
+    {
+      "id": "950120",
+      "name": "Sempione Arch View",
+      "host_name": "Davide",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4542,
+        "lng": 9.19
+      },
+      "city": "Milan",
+      "neighbourhood_group": "SEMPIONE",
+      "price": 105,
+      "last_review": "2025-08-28",
+      "license": "015146-CIM-00666"
+    },
+    {
+      "id": "950121",
+      "name": "Porta Romana Thermal",
+      "host_name": "Simona",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4542,
+        "lng": 9.2
+      },
+      "city": "Milan",
+      "neighbourhood_group": "PORTA ROMANA",
+      "price": 115,
+      "last_review": "2025-09-15",
+      "license": "015146-CIM-00888"
+    },
+    {
+      "id": "950122",
+      "name": "Prada Foundation Loft",
+      "host_name": "Simona",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4442,
+        "lng": 9.2
+      },
+      "city": "Milan",
+      "neighbourhood_group": "RIPAMONTI",
+      "price": null,
+      "last_review": "2025-09-01",
+      "license": "015146-CIM-00889"
+    },
+    {
+      "id": "950123",
+      "name": "Bocconi University Flat",
+      "host_name": "UniStay",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4442,
+        "lng": 9.19
+      },
+      "city": "Milan",
+      "neighbourhood_group": "PORTA LODOVICA",
+      "price": 75,
+      "last_review": "2025-10-04",
+      "license": "Exempt"
+    },
+    {
+      "id": "950124",
+      "name": "Politecnico Città Studi",
+      "host_name": "UniStay",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4842,
+        "lng": 9.21
+      },
+      "city": "Milan",
+      "neighbourhood_group": "CITTÀ STUDI",
+      "price": 65,
+      "last_review": "2025-09-22",
+      "license": "Exempt"
+    },
+    {
+      "id": "950125",
+      "name": "Lambrate Design District",
+      "host_name": "Enrico",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4842,
+        "lng": 9.22
+      },
+      "city": "Milan",
+      "neighbourhood_group": "LAMBRATE",
+      "price": null,
+      "last_review": "2025-08-10",
+      "license": "015146-CIM-00999"
+    },
+    {
+      "id": "950126",
+      "name": "Bicocca Village",
+      "host_name": "Enrico",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4942,
+        "lng": 9.21
+      },
+      "city": "Milan",
+      "neighbourhood_group": "BICOCCA",
+      "price": 55,
+      "last_review": "2025-09-18",
+      "license": null
+    },
+    {
+      "id": "950127",
+      "name": "Rho Fiera Apartment",
+      "host_name": "Marco Rho",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4342,
+        "lng": 9.17
+      },
+      "city": "Milan",
+      "neighbourhood_group": "RHO",
+      "price": 90,
+      "last_review": "2025-09-12",
+      "license": "015146-CIM-00100"
+    },
+    {
+      "id": "950128",
+      "name": "Linate Airport Layover",
+      "host_name": "FlyMilan",
+      "country": "Italy",
+      "coordinates": {
+        "lat": 45.4942,
+        "lng": 9.2
+      },
+      "city": "Milan",
+      "neighbourhood_group": "FORLANINI",
+      "price": 70,
+      "last_review": "2025-10-05",
+      "license": "Exempt"
+    }
+  ]
+}
